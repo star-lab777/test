@@ -19,5 +19,5 @@ const gfg = (props) => {
 	);
 };
 
-export default gfg;
+export default gfg;;
 
